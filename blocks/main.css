@@ -26,7 +26,7 @@
 
 .main__paragraph_quote-name_right {
   text-align: right;
-  margin: 0;
+  margin-bottom: 2em;
   padding: 0;
   position: relative;
   right: 6px;
@@ -38,7 +38,7 @@
   line-height: 1.6;
 }
 
-@media screen and (min-width: 320px) and (max-width: 544px) {
+@media screen and (min-width: 320px) and (max-width: 768px) {
   .main {
     max-width: 290px;
     margin: 16px;
@@ -54,7 +54,7 @@
   }
 }
 
-@media screen and (min-width: 545px) and (max-width: 1024px) {
+@media screen and (min-width: 769px) and (max-width: 1280px) {
   .main {
     max-width: 720px;
     margin: 90px 24px 64px;
