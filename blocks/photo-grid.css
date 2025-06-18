@@ -2,11 +2,12 @@
   margin: 100px auto;
 }
 .photo-grid__container {
-  margin: 0px 50px 0px;
+  margin: 50px auto;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 1fr);
   gap: 16px;
+  max-width: 1184px;
 }
 .photo-grid__item {
   -webkit-box-sizing: border-box;
