@@ -21,3 +21,6 @@ Se han configurado media queries para los siguientes rangos:
 ## Ajustes Adicionales
 
 Se realizaron ajustes manuales en los estilos para optimizar la visualización en dispositivos específicos y mejorar la experiencia del usuario. Además, se empleó Figma como herramienta de diseño para visualizar la galería en diferentes tamaños de pantalla (teléfonos grandes o pequeños, tabletas y computadoras).
+
+## Ver sitio en línea
+https://homarhurtado.github.io/web_project_homeland/
