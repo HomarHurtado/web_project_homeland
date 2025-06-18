@@ -16,6 +16,7 @@ Se han configurado media queries para los siguientes rangos:
 
 - Pantallas pequeñas: hasta 320px.
 - Pantallas medianas: de 321px a 768px.
+- Pantallas grandes: de 769px a 1280px.
 
 ## Ajustes Adicionales
 
