@@ -1,6 +1,6 @@
 # Tripleten Web Project - Homeland
 
-Este proyecto es la fase 1 de una galería de imágenes responsiva que utiliza media queries en CSS para adaptar su diseño y el tamaño de las imágenes al dispositivo.
+Este proyecto contiene la fase 1 y 2 de una galería de imágenes responsiva que utiliza media queries en CSS para adaptar su diseño y el tamaño de las imágenes y el texto al dispositivo.
 
 ## Características
 
